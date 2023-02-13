@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+I'm Alexandre, a french fullstack JS engineer currently working at [Indy](https://indy.fr)
 <!--
 **alexguillon/alexguillon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
